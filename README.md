@@ -12,4 +12,4 @@ Bank Queue Managment programme to the below tasks:
 * restore (filename.txt) " Restore the data from a file.
 * exit "Terminate the program.
 
-* When a newClient Entry to our Bank the Entry Time & Date inserted automatically.
+When a newClient Entry to our Bank the Entry Time & Date inserted automatically.
