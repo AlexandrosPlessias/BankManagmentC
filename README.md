@@ -1,5 +1,5 @@
 # BankManagment
-Bank Queue Managment programme to the below tasks:
+Bank Queue Managment programme do the below tasks:
 
 * newClient (Firstname, Surname, DD/MM/YYYY, Acount_Number, Phone_Number, E-mail, Bank Operation) "Insert Client's Data in Queue*.
 * serveClient" Serve the first Client of Bank Queue.
